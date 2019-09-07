@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap 100,200,300,400,500,600,700|Exo 100,200,300,400,500,600,700');
+/*---------------------------------colors */
+
+.jumbotron {
+    background: url("../images/img_7316.JPG");
+    background-color: #00C3E8;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
