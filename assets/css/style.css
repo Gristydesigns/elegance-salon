@@ -2,13 +2,23 @@
 /*---------------------------------colors */
 
 .jumbotron {
-    background: url("../images/img_7316.JPG");
+    margin: 0;
+    background: url("/images/img_7316.JPG");
     background-color: #00C3E8;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 300px;
+    min-height: 50px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+/*---------------------------------headliner */
+.headliners {
+    background-color: #00C3E8;
+}
+/*---------------------------------Navbar */
+.nav {
+    background-color: #272B2B;
+}
+/*---------------------------------Quotes */
