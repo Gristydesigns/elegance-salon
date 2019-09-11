@@ -3,11 +3,12 @@
 
 body {
    font-family: 'Roboto', sans-serif;
+ background: url("assets/image/background.jpg") no-repeat center center fixed;
  
 /*---------------------------------Call to action */
 .call-to-action {
  
-   background: url("assets/image/img_7316.jpg") no-repeat center center fixed; 
+   
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,14 +37,16 @@ body {
 }
 .jumbotron {
     background-color: yellow;
+    
 }
-.jumbotron-header { 
-    color: orange;
-    font-size:; 40%;
+.jumbotron-fluid { 
+    text-color: orange;
+    font-size: 40%;
     font-weight:200px;
     color:red;
     margin-top: 0;
     margin-bottom: 30px;
+    padding: 0rem 0rem;
 }
 /*---------------------------------Footer */
 .card-footer {
