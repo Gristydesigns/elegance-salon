@@ -3,26 +3,49 @@
 
 body {
    font-family: 'Roboto', sans-serif;
+ 
+/*---------------------------------Call to action */
+.call-to-action {
+ 
+   background: url("assets/image/img_7316.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  }
+  
+  
+/*---------------------------------Logo */
+.logo {
+    
 }
-
+/*---------------------------------nav-container */
+.nav-container {
+    color:#3F43344;
+    
+}
+/*---------------------------------headliners-container */
+.headliner {
+   background-color: red; 
+}
 .jumbotron {
-    margin: 0;
-    background: url("/images/img_7316.JPG");
-    background-color: #00C3E8;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 50px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    background-color: yellow;
 }
-/*---------------------------------headliner */
-.headliners {
-    background-color: #00C3E8;
+.jumbotron-header { 
+    color: orange;
+    font-size:; 40%;
+    font-weight:200px;
+    color:red;
+    margin-top: 0;
+    margin-bottom: 30px;
 }
-/*---------------------------------Navbar */
-.nav {
-    background-color: #272B2B;
+/*---------------------------------Footer */
+.card-footer {
+    
 }
-/*---------------------------------Quotes */
