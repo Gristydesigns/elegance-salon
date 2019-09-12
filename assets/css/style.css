@@ -3,7 +3,7 @@
 
 body {
    font-family: 'Roboto', sans-serif;
-  background: url(/assets/image/background) no-repeat center center fixed; 
+  background-color:#fafafa; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,52 +11,56 @@ body {
     
 }
 /*---------------------------------call out */
- .jumbotron {
-    height:400px;
+ 
+.call-to-action { 
+    height:100px;
     background-color: black;
     font-size:20px;
-    font-weight: bold;
-    color: silver;
-    text-decoration: white; 
-    height: 75%vh;
-    button: float left;
-}
-
-.jumbotron-fluid { 
-    font-size: 40%;
-    font-weight:200px;
-    color:red;
-    margin-top: 0;
-    margin-bottom: 30px;
-    padding: 0rem 0rem;
-}
+    font-weight: 600px;
+    color: #fff;
+    text-align: center;
+    padding-top:30px;
+    margin: 0;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
+   }
 /*---------------------------------nav-container */
-.nav-bar {
+.navbar-collapse {
+ background-color: #fff;
  
  }
 
-
+.nav-bar {
+ font-size: 26px;
+ font-weight: 600px;   
+}
 /*---------------------------------Logo */
 .logo {
-    color:#272B2B;
-    font-weight: 600px;
-    text-shadow: 1px 1px #A2A6A7;
-    background-color:#D0D5D6;
-    padding: 20px;
+    color:#7e7e7e;
+    font-weight: 900px;
+    text-shadow: 2px 2px 4px #25292A
+    padding-top: 10px;
+    padding-bottom: 40px; 
     margin: 0;
-    
+    display: flex;
+    justify-content: left;
+    flex-wrap: nowrap;
+   }
     
  /*---------------------------------feature space */
-.headliner {
-   display: flex;
-  align-items:center;
-  justify-content: center;
-  }
+.media {
+    height: 150px;
+    width: 150px;
+    text-align: right;
+    float: left;
+    flex-wrap: nowrap;
+} 
 
- 
 /*---------------------------------Footer */
 .card-footer {
-   background-color:red; 
-   color:#272B2B;
-   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF
+   background-color: black;
+   justify-content: center;
+   text-align: center;
+   font-weight: 600px;
+   color:#fff;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
 }
