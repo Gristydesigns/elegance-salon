@@ -3,44 +3,26 @@
 
 body {
    font-family: 'Roboto', sans-serif;
- background: url("assets/image/background.jpg") no-repeat center center fixed;
- 
-/*---------------------------------Call to action */
-.call-to-action {
- 
-   
+  background: url(/assets/image/background) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; 
-  transition: all .5s ease-in-out;
-  -moz-transition: all .5s ease-in-out;
-  -webkit-transition: all .5s ease-in-out;
-  display: flex;
-  align-items:center;
-  justify-content: center;
-  }
-  
-  
-/*---------------------------------Logo */
-.logo {
+  background-size: cover;
     
 }
-/*---------------------------------nav-container */
-.nav-container {
-    color:#3F43344;
-    
+/*---------------------------------call out */
+ .jumbotron {
+    height:400px;
+    background-color: black;
+    font-size:20px;
+    font-weight: bold;
+    color: silver;
+    text-decoration: white; 
+    height: 75%vh;
+    button: float left;
 }
-/*---------------------------------headliners-container */
-.headliner {
-   background-color: red; 
-}
-.jumbotron {
-    background-color: yellow;
-    
-}
+
 .jumbotron-fluid { 
-    text-color: orange;
     font-size: 40%;
     font-weight:200px;
     color:red;
@@ -48,7 +30,33 @@ body {
     margin-bottom: 30px;
     padding: 0rem 0rem;
 }
+/*---------------------------------nav-container */
+.nav-bar {
+ 
+ }
+
+
+/*---------------------------------Logo */
+.logo {
+    color:#272B2B;
+    font-weight: 600px;
+    text-shadow: 1px 1px #A2A6A7;
+    background-color:#D0D5D6;
+    padding: 20px;
+    margin: 0;
+    
+    
+ /*---------------------------------feature space */
+.headliner {
+   display: flex;
+  align-items:center;
+  justify-content: center;
+  }
+
+ 
 /*---------------------------------Footer */
 .card-footer {
-    
+   background-color:red; 
+   color:#272B2B;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF
 }
