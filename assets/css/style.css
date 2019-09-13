@@ -13,27 +13,31 @@ body {
 /*---------------------------------call out */
  
 .call-to-action { 
-    height:100px;
+    height:140px;
     background-color: black;
     font-size:20px;
     font-weight: 600px;
     color: #fff;
-    text-align: center;
-    padding-top:30px;
+    text-align: left;
+    padding-left:70px;
+    padding-top: 20px;
+    bottom:5px;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
    }
+   
+   .button {
+       padding-top:0;
+       padding-bottom:20px;
+      }
 /*---------------------------------nav-container */
 .navbar-collapse {
  background-color: #fff;
- 
+ padding-left:10px;
  }
-
 .nav-bar {
- font-size: 25px;
- font-weight: 600px;
- padding-top:20px;
- 
+    
 }
+
 /*---------------------------------Logo */
 .logo {
     color:#7e7e7e;
@@ -48,7 +52,7 @@ body {
  /*---------------------------------headliner */
  .headliner {
      color:#272B2B;
-     display: flex;
+     
      justify-content: center;
  }
  .blockquote {
@@ -59,26 +63,30 @@ body {
  }
   /*---------------------------------feature space */
 .media {
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    flex: none;
+    width: 300px;
     text-align: right;
     float: left;
-    
-}
+ }
  
 .img-fluid {
     max-width: 75%;
     height: auto;
     padding-bottom: 5px;
     padding-right: 20px;
-    
+   
+}
    /*---------------------------------Footer */
 .card-footer {
-   background-color: black;
-   justify-content: center;
-   text-align: center;
-   font-weight: 600px;
-   color:#fff;
-   text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
+    text-align: center;
+    background-color: black;
+    border-top: 1px solid rgba(0,0,0,.125);
+    color: #fff;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
+    
 }
-   
+ .card {
+   background-color: black; 
+   text-align: center;
+ }
