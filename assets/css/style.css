@@ -3,7 +3,7 @@
 
 body {
    font-family: 'Roboto', sans-serif;
-  background-color:#fafafa; 
+  background-color:#fff; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,7 +20,6 @@ body {
     color: #fff;
     text-align: center;
     padding-top:30px;
-    margin: 0;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
    }
 /*---------------------------------nav-container */
@@ -30,29 +29,29 @@ body {
  }
 
 .nav-bar {
- font-size: 26px;
- font-weight: 600px;   
+ font-size: 25px;
+ font-weight: 600px;
+ padding-top:20px;
+ 
 }
 /*---------------------------------Logo */
 .logo {
     color:#7e7e7e;
     font-weight: 900px;
     text-shadow: 2px 2px 4px #25292A
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 20px;
-    padding: left 100px;
     display: flex;
     justify-content: left;
-        flex-wrap: nowrap;
+     
    }
  /*---------------------------------headliner */
- .healiner {
-     text-color:7e7e7e;
+ .headliner {
+     color:#272B2B;
      display: flex;
      justify-content: center;
  }
  .blockquote {
-    padding-top: 0px;
      padding-left: 10px;
      padding-right: 5px;
      color: #7e7e7e;
@@ -60,15 +59,20 @@ body {
  }
   /*---------------------------------feature space */
 .media {
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 350px;
     text-align: right;
     float: left;
-    flex-wrap: wrap;
-    padding: left;
-} 
-
-/*---------------------------------Footer */
+    
+}
+ 
+.img-fluid {
+    max-width: 75%;
+    height: auto;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    
+   /*---------------------------------Footer */
 .card-footer {
    background-color: black;
    justify-content: center;
