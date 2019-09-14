@@ -90,3 +90,14 @@ body {
    background-color: black; 
    text-align: center;
  }
+ .prices {
+  color: #7e7e7e;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  justify-content: center;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  margin: 5px;
+  *display: inline;
+}
