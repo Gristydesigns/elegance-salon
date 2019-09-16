@@ -71,6 +71,7 @@ body {
     width: 300px;
     text-align: right;
     float: left;
+    
  }
  
 .img-fluid {
@@ -80,6 +81,7 @@ body {
     padding-right: 20px;
    
 }
+
    /*---------------------------------Footer */
 .card-footer {
     text-align: center;
@@ -90,21 +92,16 @@ body {
     
 }
  .card {
-     flex-box: wrap;
-   background-color: black; 
-   color:#7e7e7e;
-   text-align: center;
-   justify-content: center;
-  display: -moz-inline;
-  display: inline-block;
-  vertical-align: top;
-   
+    background:black;
+    color:7e7e7e;
+   display: -moz-inline;
+ 
  }
  .prices {
-  padding-left: 20px;
-  padding-bottom: 10px;
-    
-  margin: 5px;
+ color:7e7e7e;
+ background:black;
+ padding-bottom: 30px;
+ margin: 5px;
 }
  /*---------------------------------contact card */
 .contact-card {
