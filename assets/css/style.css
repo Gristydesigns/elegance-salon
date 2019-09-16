@@ -3,8 +3,7 @@
 
 body {
    font-family: 'Roboto', sans-serif;
-  background-color:#fff;
-  margin-left: 0;
+   margin-left: 0;
   margin-right: 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -22,7 +21,7 @@ body {
     font-weight: 600px;
     color: #fff;
     text-align: left;
-    padding-left:70px;
+    padding-left:50px;
     padding-top: 20px;
     bottom:5px;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
@@ -31,6 +30,7 @@ body {
    .button {
        padding-top:5;
        padding-bottom:20px;
+       padding-left: 5px;
       }
 /*---------------------------------nav-container */
 .navbar-collapse {
@@ -46,29 +46,25 @@ body {
     color:#7e7e7e;
     font-weight: 900px;
     text-shadow: 2px 2px 4px #25292A
-    padding-top: 20px;
-    padding-bottom: 20px;
-    display: flex;
     justify-content: left;
-     
-   }
+    padding-bottom: 30px;
+    }
  /*---------------------------------headliner */
  .headliner {
      color:#272B2B;
-     
      justify-content: center;
  }
  .blockquote {
-     padding-left: 10px;
+     padding-left: 5px;
      padding-right: 5px;
      color: #7e7e7e;
      
  }
   /*---------------------------------feature space */
 .media {
-    height: 300px;
-    flex: none;
-    width: 300px;
+    height: 325px;
+    flex: nowrap;
+    width: 325px;
     text-align: right;
     float: left;
     
@@ -91,24 +87,28 @@ body {
     text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
     
 }
- .card {
-    background:black;
-    color:7e7e7e;
+ .card-header {
+    background-color:#7e7e7e;
+    color:black;
    display: -moz-inline;
- 
- }
+}
+    
  .prices {
- color:7e7e7e;
+ color: #7e7e7e;
  background:black;
  padding-bottom: 30px;
  margin: 5px;
 }
  /*---------------------------------contact card */
 .contact-card {
-   padding-bottom: 30px; 
-   text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
    
+   padding-bottom: 70px; 
+   color:#7e7e7e
+   margin-bottom:100px;
 }
-.div-card-image-overlay{
-   
+.card {
+    background-color: black;
+    color:#7e7e7e;
+    border-radius: .25rem;
+    padding: 0;
 }
