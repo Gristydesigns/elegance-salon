@@ -37,9 +37,6 @@ body {
  background-color: #fff;
  padding-left:10px;
  }
-.nav-bar {
-    
-}
 
 /*---------------------------------Logo */
 .logo {
@@ -67,9 +64,8 @@ body {
     width: 325px;
     text-align: right;
     float: left;
-    
  }
- 
+
 .img-fluid {
     max-width: 75%;
     height: auto;
@@ -106,9 +102,15 @@ body {
    color:#7e7e7e
    margin-bottom:100px;
 }
+
 .card {
     background-color: black;
     color:#7e7e7e;
     border-radius: .25rem;
     padding: 0;
+}
+
+.carousel-caption{
+    color:black;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
 }
