@@ -30,7 +30,7 @@ Colours
 •	The colour scheme was chosen by the owner yet there was some influence when I used the colour palette to have shades that complimented each other. We looked at 10 different colour palettes.
 •	Originally a consideration was for a full background images; this was changed as what is needed is for the images to speak for themselves and have the impact they deserve.
 Images
-•	The salon is updating their images in-line with their new skills and abilities. So the websites needs to showcase these. Each image is there to inspire and show off the professionalism of the salon. As stated by their new strapline ’Setting the trend’; this has already been tested out as other salons are following Elegance strategies. Imagery is important to engage clients on site and so I need to as a developer place these well to have the wow factor, so they stay on site until they access the service.
+•	The salon is updating their images in-line with their new skills and abilities. So, the websites needs to showcase these. Each image is there to inspire and show off the professionalism of the salon. As stated by their new strapline ’Setting the trend’; this has already been tested out as other salons are following Elegance strategies. Imagery is important to engage clients on site and so I need to as a developer place these well to have the wow factor, so they stay on site until they access the service.
 Styling
 •	Having researched other clean, crisps sites; demonstrated having consistency across all pages builds trust and knowledge for user to enable them to surf further on the site as it engages them. Designers appreciate that there is data that says it is harder to engage users on your sit year by year we flick less; therefore, it is paramount users have an experience they are enjoying; gaining what they require swiftly.
 •	Location information has been offered through a link; maps can be distracting on a page.
@@ -42,8 +42,8 @@ Fonts
 UX
 •	Initially I drew my wireframe on paper.  I worked out the template I wanted across all the pages. Then developed the ideas for the feature section, as a developer I want each section to be clear, informative and to draw viewer further to other parts of the site. As a developer I wanted the action buttons to be clear and user friendly so that they looked part of the page, subtle yet obvious.
 •	I detailed my ideas and then reflected on these prior to using balsamiq to have a digital version. I would use adobe XD next time as I feel this gives a better user experience for clients.
-•	I already had some images as I have developed their ‘google my business’ site; in consideration for other projects I will be using imgbb site. 
-•	I also knew they were entering a competition so would have further images available yet were unsure what they would be like. i went on codrops for inspiration.
+•	I already had some images as I have developed their ‘google my business’ site; in consideration for other projects I will be using imgbb.com site. 
+•	I also knew they were entering a competition so would have further images available yet were unsure what they would be like.
 Project Goals
 •	The six pages have been designed to offer the user the opportunity to gain information with ease and speed. The website has not been developed for the user to have to go through every page unless they wish to do so.  As a developer I wanted to offer the viewer just to go to the page they required and have the given information, links available without searching. I had considered putting the telephone number and address in the footer, yet this looked very busy.
 •	Placing information on the site where a user knows from prior experience on using the web was important, so it felt familiar with the user.
@@ -80,13 +80,14 @@ For the user
 3.	The user can book appointments at any time of the day through the website.
 4.	They can purchase products anytime of the day.
 Original wireframe concepts
-{% img class URL https://imgbbb.com/image/LTLS6N width height title_text alt_text %}
-    https://imgbbb.com/image/LTLS6N
-    https://imgbbb.com/image/LTL0W7
-    https://imgbbb.com/image/LTL3oO
+Wireframe1 - <href="https://imgbbb.com/image/LTLS6N"</a>
+Wireframe2 - <href="https://imgbbb.com/image/LTL0W7" </a>
+Wireframe3 - < href="https://imgbbb.com/image/LTL3oO"</a>
+balsamiq wireframe -thumbnail url(https://imgbbb.com/images/2019/09/18/wireframebas1.jpg.th.png);
+
 •	The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
 •	I added the reviews page additionally; as they have had some awesome reviews, and this seemed an opportunity not to missed!
-•	From the original sketches my designs have developed. Using balsamiq offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
+•	From the original sketches my designs have developed. Using balsamiq offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.  
 Intentions for the website are:
 •	Google rating for the salon is important. The website has been built with 6 pages to maximise the advertising google space -(assisted through marketing strategy)
 •	A user feels the website flows and that their user experience is positive.
@@ -102,7 +103,7 @@ This Project uses the following programming languages
 •	CSS
 •	Bootstap (JQuery)
 •	Google Fonts
-•	AWS Cloud 9
+•	Cloud 9 and AWS Cloud 9
 
 Bootstrap 4
 •	Bootstrap was used to build a solid and yet simple structure which allowed the site to be responsive easily.
@@ -115,7 +116,6 @@ Web Fundamentals
 •	W3CSchools – I used for reference and guide
 •	Coding All in One for Dummies – I used this text for reference and to gain a better understanding.
 •	Web design index series – used for inspiration on designs
-    CSS trick i used for coding
 The goals for the website are:
 •	To provide a website that met the salon owners’ objectives, provided a new and more updated website. That offered service user a good experience and more opportunity to engage online with the salon.
 Ideal site visitors
@@ -146,7 +146,7 @@ I used default commands to push to Github such as:
 •	the changes I make- I need to develop this area for next project.
 •	git push -u origin master which then pushes my update and I then need to enter my username and password for security.
 Issues whilst building the site
-This issues I have had have been;
+The issues have been;
 •	Telephone link
 •	The cards – presenting them on different screens, spacing!
 •	I have learnt a great deal on this project

@@ -4,11 +4,11 @@
 body {
    font-family: 'Roboto', sans-serif;
    margin-left: 0;
-  margin-right: 0;
+   margin-right: 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+   background-size: cover;
     
 }
 /*---------------------------------call out */
@@ -56,6 +56,7 @@ body {
      padding-right: 5px;
      color: #7e7e7e;
      
+     
  }
   /*---------------------------------feature space */
 .media {
@@ -71,13 +72,15 @@ body {
     height: auto;
     padding-bottom: 5px;
     padding-right: 20px;
-   
 }
-
+.media-team {
+  max-width: 50%;  
+}
    /*---------------------------------Footer */
 .card-footer {
     text-align: center;
-    background-color: black;
+    background-color: black
+    ;
     border-top: 1px solid rgba(0,0,0,.125);
     color: #fff;
     text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
@@ -92,16 +95,14 @@ body {
  .prices {
  color: #7e7e7e;
  background:black;
- padding-bottom: 30px;
- margin: 5px;
+  
 }
  /*---------------------------------contact card */
 .contact-card {
-   
    padding-bottom: 70px; 
    color:#7e7e7e
-   margin-bottom:100px;
-}
+   
+ }
 
 .card {
     background-color: black;
