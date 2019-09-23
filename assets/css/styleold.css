@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap 100,200,300,400,500,600,700|Exo 100,200,300,400,500,600,700');
+/*---------------------------------colors */
+body {
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    color: #7e7e7e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 30px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
+
+/*--------------------------------- Start Header */
+/*--------------------------------- Title */
+.strapline {
+    font-size:18px;
+    letter-spacing: .03em;
+    Position: Relative;
+   }
+
+ @media (min-width: 768px)
+.navbar-expand-md .navbar-collapse {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+}
+#title-logo {
+    color:#7e7e7e;
+    letter-spacing: 0.2em;
+    Position: relative;
+    font-size 24px
+    line-height:; 
+}
+
+/*--------------------------------- Nav Bar */    
+.nav-bar {
+  cursor: pointer;
+  font-size:25px;
+  color:#7e7e7e;
+  letter-spacing: .05em;
+  opacity: 0.8;
+  }
+   
+   .navbar-collapse {
+       background: black;
+       font-size: 20;
+       Max-width:100%;
+       color: #7e7e7e;
+       padding: 0 0 15 0;
+      
+   } 
+   .container-logo {
+       
+   }
+   
+   .navbar-toggle.collapsed {
+    background-color: #7e7e7e !important;
+}
+/*--------------------------------- Nav Bar End */ 
+/*---------------------------------  End Header */
+
+/*--------------------------------- Feature article*/ 
+.cento-header  {
+    display: block;
+    overflow: hidden;
+    width: 75%;
+    max-width: 100%;
+    padding: 10px 0;
+    font-size:30px;
+    background: #fffff;
+    box-sizing: border-box;
+    text-align: center;
+}  
+   
+ /*--------------------------------- Feature article end */  
+ .aboutheadliner {
+     background:#A2A6A7;
+     opacity:0.8;
+     color: black;
+     padding-left:5px;
+     
+ }
+
+/*---------------------------------  Feature Header */
+.banner-wrap .container {
+    position: relative;
+    display: table;
+    overflow-y: hidden;
+    padding: 50px 0;
+    max-width: 100%;
+}
+    
+  .container {
+    overflow: hidden;
+    border-top: 0;
+    background: #fffff;
+    max-width: 960px;
+    margin: 0 auto;
+    height: 80px;
+    color:#7e7e7e;  
+    }
+/*---------------------------------  Feature Header End */
+
+/*---------------------------------  Feature article start */
+
+.content-wrap {
+    margin: 0 15;
+    height: 842px;
+    padding: 0-15px;
+}
+/*---------------------------------  Feature article End */
+
+
+
+
+/*....body {
+   font-family: 'Roboto', sans-serif;
+   margin-left: 0;
+   margin-right: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
+    
+}
+/*---------------------------------call out */
+ 
+/*....call-to-action { 
+    height:80px;
+    width: 100%;
+    background-color: black;
+    font-size:20px;
+    font-weight: 600;
+    color: #fff;
+    text-align: left;
+    padding-left:50px;
+    padding-top: 20px;
+    bottom:5px;
+    
+   }
+   
+   .button {
+       padding-top:5;
+       padding-bottom:20px;
+       padding-left: 5px;
+      }
+/*---------------------------------nav-container */
+/*....nav-bar{
+ background-color: #fff;
+ padding-left:35px;
+ color:#7e7e7e;
+ 
+ }
+
+/*---------------------------------Logo */
+/*...logo {
+    color:#7e7e7e;
+    font-weight: 900px;
+    text-shadow: 2px 2px 4px #25292A
+    justify-content: left;
+    padding-bottom: 30px;
+    }
+ /*---------------------------------headliner */
+ .headliner {
+     color:#272B2B;
+     justify-content: center;
+ }
+ .blockquote {
+     padding-left: 5px;
+     padding-right: 5px;
+     padding-bottom: 30px;
+     color: #7e7e7e;
+     
+     
+ }
+  /*---------------------------------feature space */
+.media {
+    height: 325px;
+    flex: nowrap;
+    width: 325px;
+    text-align: right;
+    float: left;
+ }
+
+.img-fluid {
+    max-width: 75%;
+    height: auto;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+.media-team {
+  max-width: 50%;  
+}
+   /*---------------------------------Footer */
+.card-footer {
+    text-align: center;
+    background-color: black
+    ;
+    border-top: 1px solid rgba(0,0,0,.125);
+    color: #fff;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
+    
+}
+ .card-header {
+    background-color:#7e7e7e;
+    color:black;
+   display: -moz-inline;
+}
+    
+ .prices {
+ color: #7e7e7e;
+ background:black;
+  
+}
+ /*---------------------------------contact card */
+.contact-card {
+   padding-bottom: 70px; 
+   color:#7e7e7e
+   
+ }
+
+.card {
+    background-color: black;
+    color:#7e7e7e;
+    border-radius: .25rem;
+    padding: 0;
+}
+
+.carousel-caption{
+    color:black;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #7e7e7e
+}
