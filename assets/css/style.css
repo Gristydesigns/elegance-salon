@@ -25,6 +25,7 @@ body {
 .navbar {
     color: red;
     display: inline-block;
+    height:90px;
 }
 .navbar-brand {
     color: #7e7e7e;
@@ -36,4 +37,9 @@ body {
     color: black;
     text-align: left
     
+}
+#header-banner {
+    height: 300px;
+    width: 100%;
+    margin: 0;
 }
