@@ -104,3 +104,9 @@ body {
  padding:20px;
  }
  /*--------------------------------- close contact-card */
+ /*--------------------------------- open card-footer */
+ .card-footer {
+ background:white;
+ color: #7e7e7e;
+ }
+ /*--------------------------------- close card-footer */
