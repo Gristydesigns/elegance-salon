@@ -94,3 +94,13 @@ body {
   flex-wrap: nowrap;
 }
 /*--------------------------------- close showcase list */
+/*--------------------------------- Open contact-card */
+.card-contact {
+ max-width: 100%;
+ padding-top: 0;
+ color: #7e7e7e;
+ background: black;
+ width: auto%;
+ padding:20px;
+ }
+ /*--------------------------------- close contact-card */
