@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap 100,200,300,400,500,600,700|Exo 100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap 600,700|Exo500,600,700');
 /*--------------------------------- body*/
 body {
     width: 100%;
@@ -6,7 +6,7 @@ body {
     background: orange;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 30px;
     background-size: cover;
 }
@@ -18,5 +18,22 @@ body {
 }
 #portrait {
     padding:2px 2px 2px 2px;
+    display: inline-block;
+    
+}
+/*--------------------------------- open Nav */
+.navbar {
+    color: red;
+    display: inline-block;
+}
+.navbar-brand {
+    color: #7e7e7e;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    Font-weight: 800;
+}
+.navbar-nav {
+    color: black;
+    text-align: left
     
 }
