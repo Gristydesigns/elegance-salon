@@ -140,12 +140,26 @@ body {
  background:white;
  color: #7e7e7e;
  width: 100%;
+  
  }
  
  .card-header-pills {
  text-align: center;
  color: red;
- background:red;
- padding-left: 350px;
+ background: black;
+ position: center;
+ 
+ 
+ }
+ 
+ .social-icons {
+ text-align: center;  
+ word-spacing: 3px;
+ 
+ }
+ 
+.design-logo {
+ text-align: center;
+ letter-spacing: 0.1em;
  }
  /*-- close .card-footer */
