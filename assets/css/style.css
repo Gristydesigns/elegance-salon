@@ -133,10 +133,19 @@ body {
  }
  /*-- close .contact-card */
  /*-- open .card-footer */
+ 
+
  .card-footer {
-     text-align: center;
+ text-align: center;
  background:white;
  color: #7e7e7e;
  width: 100%;
+ }
+ 
+ .card-header-pills {
+ text-align: center;
+ color: red;
+ background:red;
+ padding-left: 350px;
  }
  /*-- close .card-footer */
