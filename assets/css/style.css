@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap 600,700|Exo500,600,700');
-/*--------------------------------- body*/
+/*-- open body*/
 body {
     width: 100%;
     height: 100%;
@@ -11,13 +11,13 @@ body {
     background-size: cover;
 }
 
-/*--------------------------------- close body */
+/*-- close body */
 #logo {
     border: 2px solid black;
 }
 
 
-/*--------------------------------- open Nav */
+/*-- open Nav */
 .navbar {
  width:100%;
  height: 135px;
@@ -50,8 +50,8 @@ body {
     word-spacing: 15px;
     width: 100%;
 }
-/*--------------------------------- open Nav */
-/*--------------------------------- open header-banner */
+/*-- open Nav */
+/*-- open header-banner */
 #header-banner {
   height: auto;
   width:100%;
@@ -61,66 +61,69 @@ body {
   padding-bottom: 0;
   text-align:left
   
-/*--------------------------------- close header-banner */
-/*--------------------------------- open welcome-card */
-/*.card-welcome {
- width:100%;
+/*-- close header-banner */
+/*-- open welcome-card */
+
+.card-welcome {
+ width: 100%;
  margin: 0;
  color: #7e7e7e;
  background: black;
- }--*/
+ }
  
- .card-about {
+/*-- close welcome-card */
+/*-- open About */
+
+#card-about.card-body {
  width: 100%;
  height:200px;
  margin: 0;
  padding-top: 0;
  color: #7e7e7e;
  background: red;
+ padding-top:0;
  padding-left:10px;   
  }
-  
-/*-- close welcome-card */
-/*-- open About */
-.card-about {
-    height:300px;
-}
 
 /*-- close About */
 /*-- open price list */
+
+.card-img {
+ 
+}
+
 .price-card1 {
- color: black;
+ color: #7e7e7e;
  background: red;
  padding-left: 10px;
  Padding-right: 10px;
  padding-top:10px;
- width:25%;
+ width:300px;
  
 }
 .price-card2 {
- color: red;
+ color: #7e7e7e;
  background: blue;
- padding-left: 10px;
- Padding-right: 10px;
+ padding-left: 3px;
+ Padding-right: 3px;
  padding-top:10px;
- width:25%;
- text-align:left;
+ width:300px;
+ text-align:center;
  
 }
 .price-card3 {
- color: red;
+ color: #7e7e7e;
  background: green;
- padding-left: 10px;
- Padding-right: 10px;
+ padding-left: 3px;
+ Padding-right: 3px;
  padding-top:10px;
- width:25%;
- 
-}
+ width:300px;
+  }
 /*--------------------------------- close price list */
 /*--------------------------------- open showcase list */
 #portrait {
     padding:3px 3px 3px 3px;
-    height: 800px;
+    height: 400px;
     }
     
 .flex-container {
