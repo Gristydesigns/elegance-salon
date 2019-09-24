@@ -5,7 +5,7 @@ body {
     height: 100%;
     background: orange;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 30px;
     background-size: cover;
@@ -56,23 +56,24 @@ body {
 /*--------------------------------- close header-banner */
 /*--------------------------------- open welcome-card */
 .card-welcome {
- max-width: 100%;
+ width:100%;
+ margin: 0;
  color: #7e7e7e;
  background: black;
- padding:3px 3px 3px 3px;
+ 
  }
  .card-about {
- max-width: 100%;
+ width: 100%;
+ margin: 0;
  padding-top: 0;
  color: #7e7e7e;
  background: #fff;
-  padding-left:10px;   
+ padding-left:10px;   
  }
- 
- 
- .card.body{
-     color:#7e7e7e;
-     background: red;
+  
+  .card.body{
+   color:#7e7e7e;
+   background: red;
  }
 
 /*-- close welcome-card */
@@ -124,12 +125,11 @@ body {
 /*--------------------------------- close showcase list */
 /*--------------------------------- Open contact-card */
 .card-contact {
- max-width: 100%;
- padding-top: 0;
+ width: 100%;
  color: #7e7e7e;
  background: black;
- padding:10px;
- margin:0;
+ padding-left:25px;
+ margin: 0;
  }
  /*-- close .contact-card */
  /*-- open .card-footer */
@@ -140,6 +140,7 @@ body {
  background:white;
  color: #7e7e7e;
  width: 100%;
+ margin:0;
   
  }
  
@@ -147,9 +148,6 @@ body {
  text-align: center;
  color: red;
  background: black;
- position: center;
- 
- 
  }
  
  .social-icons {
