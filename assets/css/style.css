@@ -95,7 +95,7 @@ body {
  padding-left: 10px;
  Padding-right: 10px;
  padding-top:10px;
- width:30%;
+ 
  
 }
 .price-card2 {
@@ -104,18 +104,15 @@ body {
  padding-left: 3px;
  Padding-right: 3px;
  padding-top:10px;
- width:30%;
- text-align:center;
- 
-}
+  text-align:center;
+ }
 .price-card3 {
  color: #7e7e7e;
  background: green;
  padding-left: 3px;
- Padding-right: 3px;
+ padding-right: 3px;
  padding-top:10px;
- width:30%;
-  }
+   }
 /*--------------------------------- close price list */
 /*--------------------------------- open showcase list */
 
