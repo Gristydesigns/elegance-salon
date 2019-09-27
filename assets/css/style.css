@@ -24,6 +24,7 @@ body {
  .collapse.navbar-collapse {
   font-weight: 700;
   color: #7e7e7e;
+  word-spacing: 25px;
  }
 .navbar-brand {
  letter-spacing:0.2em;
@@ -32,6 +33,7 @@ body {
  color: #7e7e7e;
  text-align: center;
 }
+
 
 /* close Nav */
 /* open header-banner */
