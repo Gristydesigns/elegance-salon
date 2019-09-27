@@ -5,48 +5,34 @@ body {
     height: 100%;
     background: orange;
     font-family: 'Roboto', sans-serif;
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 30px;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
     background-size: cover;
 }
 
 /* close body */
-#logo {
-    border: 2px solid black;
-}
 
 /* open Nav */
 
-.navbar {
+.navbar-collapse {
  width:100%;
- height: 135px;
+ height: 120px;
+ background: white;
+ }
+ 
+ .collapse.navbar-collapse {
+  font-weight: 700;
+  color: #7e7e7e;
+ }
+.navbar-brand {
+ letter-spacing:0.2em;
+ font-size: 30px;
+ font-weight: 700;
+ color: #7e7e7e;
+ text-align: center;
 }
 
-.navbar-brand {
-    height:80px;
-    width: 100%;
-    font-size: 40px;
-    letter-spacing: 0.1em;
-    font-weight: 800;
-    padding-left: 5px;
-    padding-top:25px;
-    background:white;
-     }
-    
-.navbar-nav {
-    color: #7e7e7e;
-    font-size: 30px;
-    height: 100px;
-    background:white;
-    padding-right: 20px;
-    padding-top: 30px;
-    padding-bottom: 0;
-    text-align: left; 
-    list-style-type: none;
-    word-spacing: 15px;
-    width: 100%;
-}
 /* close Nav */
 /* open header-banner */
 #header-banner {
@@ -56,7 +42,7 @@ body {
   margin-right: 0;
   padding-top: 0;
   padding-bottom: 0;
-  text-align:left;
+  
 }
 /*close header-banner */
 /*open welcome-card */
@@ -66,7 +52,7 @@ body {
  margin: 0;
  color: #7e7e7e;
  background: black;
- }
+  }
  
  .row {
   margin:0;
@@ -81,7 +67,6 @@ body {
  margin: 0;
  padding-top: 0;
  color: #7e7e7e;
- background: red;
  padding-left:10px;   
  }
 
@@ -91,11 +76,7 @@ body {
 
 .price-card {
  color: #7e7e7e;
- background: red;
- padding-left: 10px;
- Padding-right: 10px;
- padding-top:10px;
- 
+ background: white;
 }
 
 /*--------------------------------- close price list */
@@ -119,13 +100,8 @@ body {
  
 
  .card-footer {
- text-align: center;
- background: black;
+ background: white;
  color: #7e7e7e;
- width: 100%;
- margin:0;
- width:100%;
-  
  }
  
  .card {
@@ -142,14 +118,7 @@ body {
  background: black;
  word-spacing: 3px;
  width:100%;
+}
  
- }
- 
-.design-logo {
- text-align: center;
- background: black;
- color: #7e7e7e;
- letter-spacing: 0.1em;
- width:100%;
- }
+
  /*-- close .card-footer */
