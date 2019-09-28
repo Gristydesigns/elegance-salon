@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    background: orange;
+    background: white;
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -34,7 +34,6 @@ body {
  text-align: center;
 }
 
-
 /* close Nav */
 /* open header-banner */
 #header-banner {
@@ -44,84 +43,44 @@ body {
   margin-right: 0;
   padding-top: 0;
   padding-bottom: 0;
-  
-}
+ }
 /*close header-banner */
 /*open welcome-card */
 
-.welcome-card {
+.container-welcome {
+ color:#7e7e7e;
+ text-align: center;
+ font-weight: 700;
+}
+.card-price {
  width: 100%;
- margin: 0;
- color: #7e7e7e;
- background: #fff;
- transparent: 10%;
-  }
- 
- .row {
-  margin:0;
- }
+} 
  
 /*-- close welcome-card */
 /*-- open About */
-
-.card-about {
- width: 100%;
- height:200px;
- margin: 0;
- padding-top: 0;
- color: #7e7e7e;
- padding-left:10px;   
- }
+.container-about {
+ color:red;
+ text-align: center;
+}
 
 /*-- close About */
 /*-- open price list */
 
 
-.price-card {
- color: #7e7e7e;
- background: white;
+/*-- close price list */
+/*-- open showcase list */
+.showcase-img {
+ width:350;
+ height:350;
 }
 
-/*--------------------------------- close price list */
-/*--------------------------------- open showcase list */
-
-.flex-container {
-  width:100%;
-   }
-   
 /*-- close showcase list */
 /*-- Open contact-card */
-.card-contact {
- width: 100%;
- color: #7e7e7e;
- background: black;
- padding-left:25px;
- margin: 0;
- }
+
  /*-- close .contact-card */
  /*-- open .card-footer */
  
 
- .card-footer {
- background: white;
- color: #7e7e7e;
- }
- 
- .card {
- flex-direction: none;
- width: 100%;
- text-align: center;
- color: #7e7e7e;
- background: black;
- }
- 
- .social-icons {
- text-align: center;
- color: #7e7e7e;
- background: black;
- word-spacing: 3px;
- width:100%;
-}
  
 
  /*-- close .card-footer */
