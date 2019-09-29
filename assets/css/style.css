@@ -50,18 +50,26 @@ body {
 .container-welcome {
  color:#7e7e7e;
  text-align: center;
- font-weight: 700;
+ font-weight: 400;
+ background:black;
+ height:350px;
+ padding-top:30px;
 }
-.card-price {
- width: 100%;
-} 
- 
+
 /*-- close welcome-card */
 /*-- open About */
+
 .container-about {
- color:red;
+ color:#7e7e7e;
+ font-weight:400;
  text-align: center;
+ padding-top:30px;
+ 
 }
+#image-about {
+ height:300px;
+ width:350px;
+ }
 
 /*-- close About */
 /*-- open price list */
@@ -69,10 +77,7 @@ body {
 
 /*-- close price list */
 /*-- open showcase list */
-.showcase-img {
- width:350;
- height:350;
-}
+
 
 /*-- close showcase list */
 /*-- Open contact-card */
