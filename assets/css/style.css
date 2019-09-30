@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    background: orange;
+    background: rgb(192,192,192);
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -18,19 +18,20 @@ body {
 .navbar-collapse {
  width:100%;
  height: 80px;
- background: white;
+ background: rgb(169,169,169);
  }
  
  .collapse.navbar-collapse {
   font-weight: 700;
-  color: #7e7e7e;
+  color: rgb(211,211,211);
   word-spacing: 25px;
  }
 .navbar-brand {
  letter-spacing:0.2em;
  font-size: 30px;
  font-weight: 700;
- color: #7e7e7e;
+ color: rgb(112,128,144);
+ background: reg(112,128,144);
  text-align: center;
 }
 
@@ -48,10 +49,10 @@ body {
 /*open welcome-card */
 
 .container-welcome {
- color:#7e7e7e;
+ color:rgb(211,211,211);
  text-align: center;
  font-weight: 400;
- background:black;
+ background:rgb(128,128,128);
  height:auto;
  padding-top:30px;
 }
@@ -60,7 +61,7 @@ body {
 /*-- open About */
 
 .container-about {
- color:#7e7e7e;
+ color:rgb(211,211,211);
  font-weight:400;
  text-align: center;
  padding-top:30px;
@@ -82,10 +83,10 @@ body {
  text-align: center;
 }
 .card-footer2 {
- background:black;
+ background:rgb(128,128,128);
 }
 .card-body2 {
- background: black;
+ background: rgb(128,128,128);
  
 }
 .card-title2 {
@@ -98,11 +99,12 @@ body {
  font-weight:700;
 }
 .list-group-item {
- background:#7e7e7e;
+ background:rgb(128,128,128);
 }
 
 /*-- close price list */
 /*-- open showcase list */
+
 
 .img-fluid {
  padding: 24px;
@@ -110,7 +112,7 @@ body {
 }
 
 .flex-container3 {
- background:white;
+ background:rgb(128,128,128);
  Padding-top:30px;
  text-align-last: center;
  }
@@ -124,25 +126,16 @@ body {
 .img-fluid4 {
  height:550px;
  width:100%;
- border-color: red;
-}
-#overlay {
-  position: fixed; 
-  display: none; /* Hidden by default */
-  width: 100%; /* Full width (cover the whole page) */
-  height: 450px; /* Full height (cover the whole page) */
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: white;
+ }
+.overlay-contact{
+ padding-top:90px;
 }
  /*-- close .contact-card */
  /*-- open .card-footer */
  
  
  .card-footer3 {
-  color:#7e7e7e;
+  color:rgb(211,211,211);
   background: black;
   text-align: center;
   width:100%;
@@ -151,15 +144,15 @@ body {
  .card-title3 {
   text-align: center;
   font-size: 30px;
-  color: #7e7e7e;
+  color: rgb(211,211,211);
   underline: none;
  }
  .card-text3 {
-  color:#7e7e7e;
+  color:rgb(211,211,211);
  }
  
 .card-social {
- background:black;
+ background:rgb(128,128,128);
  text-align:center;
  margin: 0;
  width:100%;
