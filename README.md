@@ -4,38 +4,138 @@
 
 **ELEGANCE Hair Salon**
 
--   Elegance Hair salon is based in the market town of Ledbury; it has been running since 2011. The owner had previously commissioned a designer to develop a website; this site no longer fits the business aspirations. I wanted this site to be interactive with Elegance’s social media sites and overall marketing strategy. The customer experience is important and needs to be quick and easy to use. The site needs to offer customers to purchase products and make online appointments.
--   My aim is to develop a website with my new knowledge, skills and understanding yet also have a distinct client in mind who has desires for the site. As a developer it is important to gain the skill of ensuring we understand clients’ needs and desires and then support them in seeing new opportunities to better their ideas to come out with a well-functioning site. Working with others in developing ideas has been something I am well averse to yet in this in this environment where I am totally out of my comfort zone was challenging yet very informative personally.
+-   Elegance Hair salon is based in the market town of Ledbury; it has been running since 2011. The owner had previously commissioned a website designer to develop thier site; this site no longer fits the business aspirations. Ledbury is a developing small market town; the website needs to be interactive enabling customers in as little steps as possible to book online, call and buy products. This site to be interactive with Elegance’s social media sites and overall marketing strategy. The customer experience is important and needs to be quick and easy to use; we know statistically that we are spending less time on a site, scrolling onto next site unless engaged. The site needs to be connected with the appoitment site of the salon.
+-   The website will attempt to answer the questions of the customer or direct them to gain the information they require.
 
 [My page](https://gristydesigns.github.io/elegance-salon/)
 
--   Six-page website enables Elegance to take more advertising space on google; in-conjunction with raising their presence online. This is part of the market strategy and working with ‘google my business’.
--   For my first milestone project I wanted to experiment with all the new knowledge I have gained through the Full Stack course. I have used HTML and Bootstrap to design the layout of the website. This is to provide functionality and a responsive design which sits in an HTML shell with added elements of CSS to add styling. When talking with the owner and the customers to their opinion on the development of the site has been the springboard to the website. The customer can book appointments, call the salon and buy products. The products list is an affiliate link for the owner. This generated income she has previously not used and is not on other website.
+-   The website has been designed to take up as much google advertising space as possible; in-conjunction with raising their presence online. This is part of the market strategy and working with ‘google my business’.
+-   
+The Business Goals fo the Website:
+
+- build brand awareness
+- to offer access to the appointments
+- affilate link to products that the salon uses
+- to have alink straight through to the salon so they can convert the traffic to paying customers
+- have good UX to keep customer engaged until they access 'action' buttons
+
+The customers aims for the website:
+
+- intuitive for them to use website
+- to gain the information thy require to make decisions
+- to access the salon out of hours
+- to purchase products and get them sent to their home; extending the experience from the salon
 
 **Contents**
 
-**1. UX**
+1.   UX
+2.   Ideal Customer
+3.   Client Stories
+4.   User Stories
+5.   Wireframe Mockups
+6.   Fetures
+7.   Furture Plans
+8.   Technologies Used
+9.   Deployment
+8.   Testing
+9.   Acknowledgements
+  
 
--   Project Design
--   User Objects
--   Developers Objects
--   User Stories
--   [Wireframes](https://)
--   Deployment
--   Testing
--   Acknowledgements
 
-**2. Site Features**
+**UX**
 
-**3. Technologies Used**
+*Ideal customer:*
 
-**4. Testing**
+- customers using this site to purchase their hair products; this income generation is important to the salon.
+- customers gaining inspiration from the showcase, wanting to try new designs,colourings
+- lives or stays regularly in Ledbury
+- wants more from their salon, an idividual experience
+- 
+Visiors to the Website:
 
-**5. Deployment**
+- are looking for a local salon
+- are looking for something different
+- wanting to purchase JOICO products
+- wanting to book when they are ready
+- 
+This projects helps them achive this through:
 
-**6. Acknowledgements**
+- links to the apointment website
+- The website has been designed as part of a marketing strategy for the salon to gain new customers also, to offer customers to buy products.
+- For customers unsure what they want to achieve to have the opportunity to look at what the salon offers; then gain opportunity for consultation.
+- telephone link through to the salon
+- links through to the productlinks through to other social media site where there are blogs and further information on products
+- this website links with other social media, as we access different sites yet customers will be diverted to website
+- other local websites have not updated their sites to offer these facilities
+   -accomplishing this through a website that is engaging
+   -informative yet not overpowering them with information
+   -constaantly guiding them to seek a personal touch
 
-**7. Disclaimer**
+*Client Stories:*
+
+*  The main users are aged 18 and upwards however, their main client group is aged 40 plus.
+*  Gaining a sense of trust with the owner and staff
+*  to gain either a way to independently book appointments or to call through to the salon.
+*  for the salon to have built on their reputation
+*  for clients to know about the competions and training staff are attening and therefore want to try new designs, colourings
+
+*  website not feel a barrier; to feel a tool and inspiring site.
+*  The six-page website has been used as a market strategy element to get as much advertising space as organically as the salon can.
+*  I want them to find the site practical, informative and inspiring. The website must give a clear element of professionalism and trust.
+*  Separating the information on different pages allows the ease of information provided.
+*  The user can book appointments at any time of the day through the website.
+*  They can purchase products anytime of the day.
+
+*Wireframe Mockups:*
+-   Initially I drew my wireframe on paper. I worked out the template I wanted across all the pages. Then developed the ideas for the feature section, as a developer I want each section to be clear, informative and to draw viewer further to other parts of the site. As a developer I wanted the action buttons to be clear and user friendly so that they looked part of the page, subtle yet obvious.
+-   I detailed my ideas and then reflected on these prior to using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) to have a digital version. I would use adobe XD next time as I feel this gives a better user experience for clients.
+-   I already had some images as I have developed their ‘google my business’ site; in consideration for other projects I will be using imgbb.com site.
+-   I also knew they were entering a competition so would have further images available yet were unsure what they would be like.
+
+* [Wireframe1](https://imgbbb.com/image/LTLS6N)
+
+* [Wireframe2](https://imgbbb.com/image/LTL0W7)
+
+* [Wireframe3](https://imgbbb.com/image/LTL3oO)
+
+-   The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
+-   I added the reviews page additionally; as they have had some awesome reviews, and this seemed an opportunity not to missed!
+
+* From the original sketches my designs have developed. Using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
+
+**Features**
+
+*Home*
+
+The Navagation bar is fixed so that on every page it is available. this mean that on every section the customer can call the salon; reducing buttons over the website, focusing the customer on options.
+This page is the opening one. The banner image introduces you to the team members. This image has been chosen to give an impression with the products in background, visually engaging customers.
+
+*Welcome*
+
+This paragraph leads from the banner image to give some information on the salon and what is on offer. There is no images as the customer is focusing on the services. the stepdown paragraph draws the customer into the words.
+
+*About*
+
+This section has an image and paragraph to update information on the salon and it's owner. giving the image and information to build on trust. Placing the image on the right.
+
+*Prices*
+
+This section cards were used, with images of the stylists on top. The layout to be simplistic and informative. The images supports the relationship between customer and stylist prior to appointmnet. The card allows a clear way of showing the prices and enabling the customer to compare and know what they are purchasing.
+
+*Showcase*
+
+Showcase has been set up to show 3x3 design to let the customer visually see the stylist skill and what can be achieved. to offer the customer inspiration. The set up is to have spaces inbetween the im
+The action buttons at the bottom of each card are there to ensure efficent access to book online.
+
+*Contact*
+
+Contact information was to give further information on times etc.. the image is present so that it is recognisable to the customer.
+
+*Footer*
+
+the footer has links to the other social media sites for access through click. This is also access to afflicate link for JOICO products.
+The buttons are highlighted. the curser finger is available.
+
 
 **Project Design**
 
@@ -66,43 +166,12 @@
 -   As a developer I want to find text that would work across browsers. I used Google fonts to find a font that would complement their logo which is in baldessare font. The salon is presently updating so they will have an image file for their logo, and this will need to be added at a later date.
 -   Fonts and colour of the website I tested out the with owner and customer group.
 
-**UX**
-
--   Initially I drew my wireframe on paper. I worked out the template I wanted across all the pages. Then developed the ideas for the feature section, as a developer I want each section to be clear, informative and to draw viewer further to other parts of the site. As a developer I wanted the action buttons to be clear and user friendly so that they looked part of the page, subtle yet obvious.
--   I detailed my ideas and then reflected on these prior to using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) to have a digital version. I would use adobe XD next time as I feel this gives a better user experience for clients.
--   I already had some images as I have developed their ‘google my business’ site; in consideration for other projects I will be using imgbb.com site.
--   I also knew they were entering a competition so would have further images available yet were unsure what they would be like.
-
-**Project Goals**
-
--   The six pages have been designed to offer the user the opportunity to gain information with ease and speed. The website has not been developed for the user to have to go through every page unless they wish to do so.  As a developer I wanted to offer the viewer just to go to the page they required and have the given information, links available without searching. I had considered putting the telephone number and address in the footer, yet this looked very busy.
--   Placing information on the site where a user knows from prior experience on using the web was important, so it felt familiar with the user.
-
-**User Objects**
-
--   The website has been designed as part of a marketing strategy for the salon to gain new customers also, to offer customers to buy products.
--   For customers unsure what they want to achieve to have the opportunity to look at what the salon offers; then gain opportunity for consultation.
-
-What I wanted the user to gain:
-
--   Recognise the salon, especially staff members
--   Consultation opportunity with an expert
--   Inspired to feeling great and gain new ideas
--   Product information, links to further information on products
--   Images to promote salon/brand
--   Opportunity to buy products
-
-**“Setting the Trend”**
-
--   This strap line has been developed as part of the website. The development of Instagram engagement has had impact locally; other salons are following the salon strategies. As a developer it is important to offer the salon a new look/idea so that they can build upon their success and continually having Elegance at the top of their game visually. Ledbury is a small market town and it is important for the business have a proactive marketing strategy online to gaining new clients.
-
-**Developers Objectives**
-
--   The layout to be clean and informative so that navigation is easy.
--   Call to action to be subtle yet obvious.
--   The structure of the programming to have clear structure.
--   The layout is formatted in a way that the user can navigate around the site without frustration.
--   The layout page applications are HTML, CSS, bootstrap (which includes some JQuery script).
+*Exsisting Features*
+ - Header logo is fixed on every section and takes you to home page. This is where the brand of the company is recognisable. Clicking the logo takes you back to home section.
+ - Navigation Bar is available on each section.
+ - Footer contains the copyright information.
+ - social icons are avialble in the footer section.
+ 
 
 **Future plans**
 
@@ -111,55 +180,29 @@ What I wanted the user to gain:
 -   Google analytics is the next part of the market strategy and will inform future developments. Adding links to action buttons on site will inform future changes.
 -   Speed of the website and images ass this important for user experience especially on mobiles.
 
-**User Stories**
 
--   The main users are aged 18 and upwards however, their main client group is aged 40 plus:
-
-*   The client group wanted a light, bright website as they felt the other was dull and not inspiring.
-* The six-page website has been used as a market strategy element to get as much advertising space as organically as the salon can.
-
-**For the user**
-
-*  I want them to find the site practical, informative and inspiring. The website must give a clear element of professionalism and trust.
-*  Separating the information on different pages allows the ease of information provided.
-*  The user can book appointments at any time of the day through the website.
-*  They can purchase products anytime of the day.
-
-**Original wireframe concepts**
-
-* [Wireframe1](https://imgbbb.com/image/LTLS6N)
-
-* [Wireframe2](https://imgbbb.com/image/LTL0W7)
-
-* [Wireframe3](https://imgbbb.com/image/LTL3oO)
-
--   The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
--   I added the reviews page additionally; as they have had some awesome reviews, and this seemed an opportunity not to missed!
-
-* From the original sketches my designs have developed. Using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
-
-
-**Intentions for the website are:**
-
--   Google rating for the salon is important. The website has been built with 6 pages to maximize the advertising google space -(assisted through marketing strategy)
--   A user feels the website flows and that their user experience is positive.
--   The website gains new customer attention so they use the call to action buttons. This in the future can be monitored and measured through additional coding.
--   It enables the user to be inspired and to have instant trust to want to use the salon services.
--   Clean, crisp, light and most importantly rememberable!
--   I hope the site showcases what I have learnt already and that as I progress, I can return to develop site with new learning and understanding.
--   One intention was to have a form on the site for the client however, the salon does not have policies and procedures for this presently to hold personal data. Also reading on this topic; forms can be a barrier and click through are a better user experience.
-
-**Site Interactivity and Features**
-
-**Technologies Used**
-
-**This Project uses the following programming languages**
-
--   HTML
+ **Technologies Used**
+ -   HTML
 -   CSS
 -   Bootstap (JQuery)
 -   Google Fonts
--   Cloud 9 and AWS Cloud 9
+-   Cloud 9 and AWS Cloud9
+ 
+* This project uses HTML and CSS programming languages.
+* AWS-Cloud9 - AWS was used Cloud9 for the IDE while building the website.
+* BootstrapCDN
+* The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
+* The project also uses BootstrapCDN to provide icons from FontAwesome
+* Google Fonts
+* The project uses Google fonts to style the website fonts.
+* jQuery - The project uses jQuery to reference Javascript needed for the responsive navbar, gallery modal.
+* Popper.js - The project uses Popper,js reference Javascript needed for the responsive navbar.
+* AutoPrefixer
+* This project used AutoPrefixer to make sure the css code is valid for all browsers.
+* All external images are stored and linked from ImgBB  Media library owned by the Salon.
+
+**This Project uses the following programming languages**
+
 
 * [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
@@ -176,21 +219,6 @@ What I wanted the user to gain:
 -   Coding All in One for Dummies – I used this text for reference and to gain a better understanding.
 -   Web design index series – used for inspiration on designs
 
-**The goals for the website are:**
-
--   To provide a website that met the salon owners’ objectives, provided a new and more updated website. That offered service user a good experience and more opportunity to engage online with the salon.
-
-**Ideal site visitors**
-
-**This project is the best way to help them achieve these things because:**
-
-* The website visitors are predominately 40 plus in age and live in the radius of 30 miles. They generally live or work in the area. The salon has a reputation of retaining clients, so the focus was for new clients yet offering existing clients a service online too.
-
-**This website is:**
-
-* The layout of site matches experience of using other sites e.g. where you expect info in footer etc…
-
-* It allows clients to book appointments online
 
 **Deployment**
 
@@ -273,4 +301,6 @@ The content of the Website I have produced is for educational purposes at this s
 
 * Remembered
 
-* A site clients are happy to return to and use
+* A site clients are happy to return to and use    
+
+
