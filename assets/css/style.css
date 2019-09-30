@@ -98,6 +98,9 @@ body {
  text-align: center;
  font-weight:700;
 }
+.list-group-item {
+ background:#7e7e7e;
+}
 
 /*-- close price list */
 /*-- open showcase list */
@@ -106,6 +109,11 @@ body {
  padding: 24px;
  margin-left:12px;
 }
+.flex-container3 {
+ background:white;
+ Padding-top:30px;
+ text-align-last: center;
+ }
 
 /*-- close showcase list */
 /*-- Open contact-card */
