@@ -126,6 +126,17 @@ body {
  width:100%;
  border-color: red;
 }
+#overlay {
+  position: fixed; 
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 450px; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+}
  /*-- close .contact-card */
  /*-- open .card-footer */
  
@@ -141,7 +152,7 @@ body {
   text-align: center;
   font-size: 30px;
   color: #7e7e7e;
-  text-decoration: none
+  underline: none;
  }
  .card-text3 {
   color:#7e7e7e;
