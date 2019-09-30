@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    background: white;
+    background: orange;
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -17,7 +17,7 @@ body {
 
 .navbar-collapse {
  width:100%;
- height: 120px;
+ height: 80px;
  background: white;
  }
  
@@ -41,7 +41,7 @@ body {
   width:100%;
   margin-left: 0;
   margin-right: 0;
-  padding-top: 0;
+  padding-top: 20px;
   padding-bottom: 0;
  }
 /*close header-banner */
@@ -52,7 +52,7 @@ body {
  text-align: center;
  font-weight: 400;
  background:black;
- height:350px;
+ height:375px;
  padding-top:30px;
 }
 
@@ -64,28 +64,57 @@ body {
  font-weight:400;
  text-align: center;
  padding-top:30px;
+ padding-bottom:30px;
  
 }
 #image-about {
  height:300px;
  width:350px;
+ margin:10px;
  }
 
 /*-- close About */
 /*-- open price list */
-
+.price-title {
+ text-align: center;
+}
+.card-footer2 {
+ background:black;
+}
+.card-body2 {
+ background: black;
+}
 
 /*-- close price list */
 /*-- open showcase list */
 
+.img-fluid {
+ padding: 24px;
+ margin-left:12px;
+}
 
 /*-- close showcase list */
 /*-- Open contact-card */
-
+#Header-contact {
+ width:100%;
+ height:350px;
+ 
+}
  /*-- close .contact-card */
  /*-- open .card-footer */
  
-
  
+ .card-footer2 {
+  color:#7e7e7e;
+  background: black;
+ }
+ .card-footer2 {
+  color:#7e7e7e;
+  background: black;
+ }
+.design-logo {
+  color: #7e7e7e;
+  background:black;
+}
 
  /*-- close .card-footer */
