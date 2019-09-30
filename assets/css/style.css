@@ -90,7 +90,6 @@ body {
 }
 .card-title2 {
  text-align: center;
- 
  font-weight:700;
 }
 
@@ -109,6 +108,7 @@ body {
  padding: 24px;
  margin-left:12px;
 }
+
 .flex-container3 {
  background:white;
  Padding-top:30px;
@@ -126,15 +126,28 @@ body {
  /*-- open .card-footer */
  
  
- .card-footer2 {
+ .card-footer3 {
   color:#7e7e7e;
   background: black;
   text-align: center;
+  width:100%;
+  border:0;
+ }
+ .card-title3 {
+  text-align: center;
+  font-size: 30px;
+  color: #7e7e7e;
+ }
+ .card-text3 {
+  color:#7e7e7e;
  }
  
-.design-logo {
-  color: #7e7e7e;
-  background:black;
+.card-social {
+ background:black;
+ text-align:center;
+ margin: 0;
+ padding:15 0 0 0;
+ height:80px;
 }
 
  /*-- close .card-footer */
