@@ -3,7 +3,7 @@
 body {
     width: 100%;
     height: 100%;
-    background: rgb(0,0,0);
+    background: rgb(245,245,245);
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
     font-weight: 400;
@@ -18,7 +18,7 @@ body {
 .navbar-collapse {
  width:100%;
  height: 80px;
- background: rgb(255,255,255);
+ background: rgb(255,228,225);
   }
  
  .collapse.navbar-collapse {
@@ -32,7 +32,7 @@ body {
  font-size: 30px;
  font-weight: 700;
  color: rgb(112,128,144);
- background: reg(112,128,144);
+ background: rgb(112,128,144);
  text-align: center;
 }
 
@@ -88,7 +88,7 @@ body {
  text-align: center;
 }
 .card-footer2 {
- background:rgb(128,128,128);
+ background:rgb(192,192,192, 0.5);
 }
 .card-body2 {
  background: rgb(192,192,192);
@@ -104,7 +104,7 @@ body {
  font-weight:700;
 }
 .list-group-item {
- background:rgb(128,128,128);
+ background:rgb(255,228,225);
 }
 
 /*-- close price list */
@@ -117,7 +117,7 @@ body {
 }
 
 .flex-container3 {
- background:rgb(128,128,128);
+ background:rgb(255,255,240);
  Padding-top:30px;
  text-align-last: center;
  }
@@ -158,29 +158,40 @@ body {
  
  
  .card-footer3 {
-  color:rgb(211,211,211);
-  background: black;
+  color:rgb(0,0,0);
+  background: rgb(128,128,128);
   text-align: center;
   width:100%;
-  border:0;
+  margin-left:3px;
+  margin-right:0px;
+  padding:5px;
  }
  .card-title3 {
   text-align: center;
-  font-size: 30px;
-  color: rgb(211,211,211);
+  font-size: 28px;
+  color: rgb(0,0,0);
+  margin-left:0;
+  margin-right:10px;
+  padding-bottom:5px;
+  
   underline: none;
  }
  .card-text3 {
-  color:rgb(192,192,192);
+  color:rgb(0,0,0);
+  margin-left:1px;
+  margin-right:1px;
+  padding-top:5px;
  }
  
 .card-social {
- background:rgb(0,0,0);
+ background:rgb(128,128,128);
  text-align:center;
- margin: 0;
+ margin-right: 3px;
+ margin-left:3px;
  width:100%;
- padding:0;
+ padding-top:19px;
  height:80px;
 }
+
 
  /*-- close .card-footer */
