@@ -56,8 +56,9 @@ body {
  background:rgb(128,128,128);
  height:auto;
  padding-top:30px;
- margin-left:20px;
- margin-right:20px
+ padding-right:30px;
+ margin-left:5px;
+ margin-right:150px
 }
 
 /*-- close welcome-card */
@@ -138,12 +139,12 @@ body {
   bottom: 0; 
   background-image: url(assets/image/shop.jpg);
   background: rgba(192, 192, 192, 0.5); /* Black see-through */
-  color: #f1f1f1; 
+  color: rgb(0,0,0); 
   width: 100%;
   transition: .5s ease;
   opacity:0.5;
-  color: rgb(211,211,211);
-  font-size: 20px;
+  color: rgb(0,0,0);
+  font-size: 26px;
   padding: 20px;
   text-align: center;
 }
