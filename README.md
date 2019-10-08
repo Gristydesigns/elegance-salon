@@ -97,9 +97,11 @@ This projects helps them achive this through:
 * [Wireframe2](https://imgbbb.com/image/LTL0W7)
 
 * [Wireframe3](https://imgbbb.com/image/LTL3oO)
+* [wireframe4](https://ibb.co/N24mJrS)
+
 
 -   The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
--   I added the reviews page additionally; as they have had some awesome reviews, and this seemed an opportunity not to missed!
+-   Having developed the first website and receiving feedback i developed [wireframe4](https://ibb.co/N24mJrS) this is the final project.
 
 * From the original sketches my designs have developed. Using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
 
@@ -109,33 +111,44 @@ This projects helps them achive this through:
 
 The Navagation bar is fixed so that on every page it is available. this mean that on every section the customer can call the salon; reducing buttons over the website, focusing the customer on options.
 This page is the opening one. The banner image introduces you to the team members. This image has been chosen to give an impression with the products in background, visually engaging customers.
+The logo is part of the navagation bar and holds th function to take customer back to the welcome bpage at anytime, this function is a well know link on websites.
 
 *Welcome*
 
-This paragraph leads from the banner image to give some information on the salon and what is on offer. There is no images as the customer is focusing on the services. the stepdown paragraph draws the customer into the words.
+This paragraph leads from the banner image to give some information on the salon and what is on offer. There is no images as the customer is focusing on the services. The stepdown paragraph has been developed to draw the customer into the words.
 
 *About*
 
 This section has an image and paragraph to update information on the salon and it's owner. giving the image and information to build on trust. Placing the image on the right.
+The about section has been highlighted to give a seperation and emphasise to paragraph, to enable viewer to see seperation. The website is mainly on one page and offering seperation should enable viewers to categorise sections, as a developer i have assisted this through the colors.
 
 *Prices*
 
 This section cards were used, with images of the stylists on top. The layout to be simplistic and informative. The images supports the relationship between customer and stylist prior to appointmnet. The card allows a clear way of showing the prices and enabling the customer to compare and know what they are purchasing.
+These cards have also been given a showdowing to them, to offer a distiction between the cards, the card set upi is to introduce the staffing team.
+The booking link enables clients to book anytime on an online system, enabling the website to be a 24 hour access.
 
 *Showcase*
 
 Showcase has been set up to show 3x3 design to let the customer visually see the stylist skill and what can be achieved. to offer the customer inspiration. The set up is to have spaces inbetween the im
 The action buttons at the bottom of each card are there to ensure efficent access to book online.
+The images have been given a shadow to seperate each image to entice the client into the images seperately.
 
 *Contact*
 
 Contact information was to give further information on times etc.. the image is present so that it is recognisable to the customer.
+The contact information is on a seperate page to keep the front page focusing on the services being offered. Links on the contact page enable you to book online and there is a map available in this link.
+
+*Products*
+
+This page shows the products salon uses and that can be purchased. as a developer i wanted to offer a blog, so developed the format of two prodcuts to be showcased. the use of fontawesome scissors were used here. This page has been developed so that on a monthly basis new articles acn be shared.
+The buttons take the viewer either through to salon landline or to purchase products.
 
 *Footer*
 
-the footer has links to the other social media sites for access through click. This is also access to afflicate link for JOICO products.
-The buttons are highlighted. the curser finger is available.
-
+The footer has links to the other social media sites for access through click. This is also access to afflicate link for JOICO products.
+The buttons are highlighted, all buttons are same colour to offer viewer consistency through site. the curser finger is available so that customers have ease to click through.
+The buy button has a grow fuction to draw attention, encouraging the viewer to click through.
 
 **Project Design**
 
