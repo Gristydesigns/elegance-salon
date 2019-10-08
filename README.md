@@ -143,7 +143,7 @@ The contact information is on a seperate page to keep the front page focusing on
 
 This page shows the products salon uses and that can be purchased. as a developer i wanted to offer a blog, so developed the format of two prodcuts to be showcased. the use of fontawesome scissors were used here. This page has been developed so that on a monthly basis new articles acn be shared.
 The buttons take the viewer either through to salon landline or to purchase products.
-
+The grow function on this page has been disabled as it is too distracting to viewer. The navigation bar is not fixed on this page as there limited scroll.
 *Footer*
 
 The footer has links to the other social media sites for access through click. This is also access to afflicate link for JOICO products.
@@ -170,7 +170,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 **Styling**
 
 -   Having researched other clean, crisps sites; demonstrated having consistency across all pages builds trust and knowledge for user to enable them to surf further on the site as it engages them. Designers appreciate that there is data that says it is harder to engage users on your sit year by year we flick less; therefore, it is paramount users have an experience they are enjoying; gaining what they require swiftly.
--   Location information has been offered through a link; maps can be distracting on a page.
+-   Location information has been offered through a link; this maybe an area for development in the future.
 -   The hover option is on all buttons for ease for the user knowing where they are on the site. Hight-light of text has been offered to draw their focus subtly to the full page. Links to FaceBook, Instagram are working to enable them to link further if required.
 -   The home page has been designed so that when the salon develops Blogs on their ‘Google My Business’ and this can be linked through offering consistency and branding/promotion.
 
@@ -184,6 +184,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
  - Navigation Bar is available on each section.
  - Footer contains the copyright information.
  - social icons are avialble in the footer section.
+ - Call to action is on every page
  
 
 **Future plans**
@@ -192,6 +193,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 -   To add FB pixel so that through google analytics can provide further information on statistic on site; this will enable the marketing strategy to continually develop and transform the salon. The website is key to this.
 -   Google analytics is the next part of the market strategy and will inform future developments. Adding links to action buttons on site will inform future changes.
 -   Speed of the website and images ass this important for user experience especially on mobiles.
+-   Maps section
 
 
  **Technologies Used**
@@ -276,16 +278,16 @@ The issues have been;
 
 * The cards – presenting them on different screens, spacing!
 
-* I have learnt a great deal on this project
-
 * Images from salon were delayed so many images were the older ones.
 
 -   **Testing**
 
+-   [Find unclosed tags](https://aliciaramirez.com/closing-tags-checker/) was used to verify correct tags
+-   [W3S validator](https://validator.w3.org/nu/#textarea) to ensure code has no errors
 -   Initial testing identified telephone coding as an issue.
 -   I tested the website Google Chrome and Safari. I was always using Google Chrome and found no issues when using this browser.
 
-* The website worked to the normal standard on Mozilla Firefox as well. So far, So good.
+* The website worked to the normal standard on Mozilla Firefox as well. So far, so good.
 
 **Media and Content**
 
