@@ -94,40 +94,40 @@
 * [Wireframe2](https://imgbbb.com/image/LTL0W7)
 
 * [Wireframe3](https://imgbbb.com/image/LTL3oO)
-* 
+
 * [wireframe4](https://ibb.co/N24mJrS)
 
 
 -   The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
 -   Having developed the first website and receiving feedback i developed [wireframe4](https://ibb.co/N24mJrS) this is the final project.
--   From the original sketches my designs have developed. Using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
+-   From the original sketches my designs have developed. Using [Balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
 
 ###Features
 
 ##Home
 
-The Navagation bar is fixed so that on every page it is available. this mean that on every section the customer can call the salon; reducing buttons over the website, focusing the customer on options.
+The Navagation bar is fixed so that on every section it is available. This mean that on every section the customer can call the salon; reducing button requirement over the website, focusing the customer on options.
 This page is the opening one. The banner image introduces you to the team members. This image has been chosen to give an impression with the products in background, visually engaging customers.
 The logo is part of the navagation bar and holds th function to take customer back to the welcome bpage at anytime, this function is a well know link on websites.
 
 ##Welcome
 
-This paragraph leads from the banner image to give some information on the salon and what is on offer. There is no images as the customer is focusing on the services. The stepdown paragraph has been developed to draw the customer into the words.
+This paragraph leads from the banner image to give some information on the salon and what is on offer.The banner image is a focal and engaging opening image. The stepdown paragraph has been developed to draw the customer into the words.
 
 ##About
 
-This section has an image and paragraph to update information on the salon and it's owner. giving the image and information to build on trust. Placing the image on the right.
-The about section has been highlighted to give a seperation and emphasise to paragraph, to enable viewer to see seperation. The website is mainly on one page and offering seperation should enable viewers to categorise sections, as a developer i have assisted this through the colors.
+This section has an image and paragraph to update information on the salon and it's owner. giving the image and information to build on trust. Placing the image on the right, visually complimenting.
+The about section has been highlighted to give a seperation and emphasise to paragraph, to enable viewer to see seperation. The website is on one page and offering seperation through shadowing; should enable viewers to categorise sections. The colour follow the branding of the Salon; extending the branding awareness.
 
 ##Prices
 
-This section cards were used, with images of the stylists on top. The layout to be simplistic and informative. The images supports the relationship between customer and stylist prior to appointmnet. The card allows a clear way of showing the prices and enabling the customer to compare and know what they are purchasing.
+This section cards were used, with images of the stylists on top; as a developer offering the layout to be simplistic and informative. The images supports the relationship between customer and stylist prior to appointmnet. The card allows a clear way of showing the prices and enabling the customer to compare and know what they are purchasing.
 These cards have also been given a showdowing to them, to offer a distiction between the cards, the card set upi is to introduce the staffing team.
 The booking link enables clients to book anytime on an online system, enabling the website to be a 24 hour access.
 
 ##Showcase
 
-Showcase has been set up to show 3x3 design to let the customer visually see the stylist skill and what can be achieved. to offer the customer inspiration. The set up is to have spaces inbetween the im
+Showcase has been set up to show 3x3 design to let the customer visually see the stylist skill and what can be achieved; to offer the customer inspiration. The set up is to have spaces inbetween the im
 The action buttons at the bottom of each card are there to ensure efficent access to book online.
 The images have been given a shadow to seperate each image to entice the client into the images seperately.
 
@@ -158,7 +158,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
  - Navigation Bar is available on each section.
  - Footer contains the copyright information.
  - Social icons are avialble in the footer section.
- - Call to action is on every page
+ - Call to action is on every section.
  
 
 ###Future plans
@@ -167,7 +167,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 -   To add FB pixel so that through google analytics can provide further information on statistic on site; this will enable the marketing strategy to continually develop and transform the salon. The website is key to this.
 -   Google analytics is the next part of the market strategy and will inform future developments. Adding links to action buttons on site will inform future changes.
 -   Speed of the website and images ass this important for user experience especially on mobiles.
--   Maps section
+-   Maps section to be developed.
 
 
  ###Technologies Used
@@ -189,11 +189,12 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 * The project uses Google fonts to style the website fonts.
 * jQuery - The project uses jQuery to reference Javascript needed for the responsive navbar.
 * Popper.js - The project uses Popper,js reference Javascript needed for the responsive navbar.
+* Favicon links for the logo.
 * All external images are stored and linked from ImgBB  Media library owned by the Salon.
 
 ## Deployment
 This project was developed using the [Cloud9 IDE](https://c9.io), committed to git and pushed to GitHub using the built in function within cloud9. 
-To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/AJGreaves/portrait-artist), the following steps were taken: 
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/Gristydesigns/elegance-salon), the following steps were taken: 
 1. Log into GitHub. 
 2. From the list of repositories on the screen, select **AJGreaves/portrait-artist**.
 3. From the menu items near the top of the page, select **Settings**.
@@ -206,14 +207,14 @@ At the moment of submitting this Milestone project the Development Branch and Ma
 
 ### How to run this project locally
 To clone this project from GitHub:
-1. Follow this link to the [Project GitHub repository](https://github.com/AJGreaves/portrait-artist).
+1. Follow this link to the [Project GitHub repository](https://gristydesigns.github.io/elegance-salon).
 2. Under the repository name, click "Clone or download".
 3. In the Clone with HTTPs section, copy the clone URL for the repository. 
 4. In your local IDE open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type ```git clone```, and then paste the URL you copied in Step 3.
 ```console
-git clone https://github.com/USERNAME/REPOSITORY
+git clone https://github.com/Gristydesigns/elegance-salon.git
 
 7. Press Enter. Your local clone will be created.
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
@@ -222,16 +223,18 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 *The issues have been;
 
-- Telephone link[Web](https://developers.google.com/web/fundamentals/native-hardware/click-to-call/) Fundamentals
+- Telephone link- I started looking at the fundermental [Web](https://developers.google.com/web/fundamentals/native-hardware/click-to-call/) page; looking for a way to link through from website to Salon; the information out there is varied. With further guidance the links worked through popperjs.
 
-- The cards – presenting them on different screens, spacing!
+- Working my way through sites to find up to date information when issues arose through coding e.g gallery configuration. as a student it is having the right tools and web links to make this efficent; i am gaining these.
 
+- Designing the first website with 6 pages and then deciding through design that the website needing to be overhauled and started from scratch. the process of learning and working out how best to deliver the site to meet the needs.
 - Images from salon were delayed so many images were the older ones.
+- Balsamiq wireframe was not flexible and would use another system next time.
 
 ###Testing
 
--   [Find unclosed tags](https://aliciaramirez.com/closing-tags-checker/) was used to verify correct tags
--   [W3S validator](https://validator.w3.org/nu/#textarea) to ensure code has no errors
+-   [Find unclosed tags](https://aliciaramirez.com/closing-tags-checker/) was used to verify correct tags.
+-   [W3S validator](https://validator.w3.org/nu/#textarea) to ensure code has no errors.
 -   Initial testing identified telephone coding as an issue.
 -   I tested the website Google Chrome and Safari. I was always using Google Chrome and found no issues when using this browser.
 -   The website worked to the normal standard on Mozilla Firefox as well. So far, so good.
@@ -245,7 +248,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ###Acknowledgements
 
--   I would like to say thank you to my mentor.[Simen Daehlin]("https://www.github.com/Eventyret") his support and encouragement has been a great source as a student.
+-   I would like to say thank you to my mentor.[Simen Daehlin]("https://www.github.com/Eventyret") his support and encouragement has been a great source of help and more importantly humour!.
 -   The Salon for sharing their images for this project.
 -   The slack community for their passion in supporting me and others, I have realised how much you can learn from other challenges.
 -   W3CSchools – I used for reference and guide
