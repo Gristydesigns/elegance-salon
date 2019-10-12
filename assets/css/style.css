@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Exo|Roboto:400,700&display=swap');
-/*open body*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
 body {
     width: 100%;
     height: 100%;
@@ -11,9 +11,7 @@ body {
     background-size: cover;
 }
 
-/* close body */
-
-/* open Nav */
+/*-- Navigation*/
 
 .navbar-collapse {
  width:100%;
@@ -36,8 +34,7 @@ body {
  text-align: center;
 }
 
-/* close Nav */
-/* open header-banner */
+/* header-banner */
 #header-banner {
   height: auto;
   width:100%;
@@ -46,8 +43,7 @@ body {
   padding-top: 20px;
   padding-bottom: 0;
  }
-/*close header-banner */
-/*open welcome-card */
+/*-- welcome-card */
 
 .container-welcome {
  color:rgb(211,211,211);
@@ -61,8 +57,7 @@ body {
  margin-right:15px
 }
 
-/*-- close welcome-card */
-/*-- open About */
+/*-- About */
 
 .container-about {
  color:rgb(0,0,0);
@@ -79,8 +74,7 @@ body {
  background: rgb(211,211,211);
  }
 
-/*-- close About */
-/*-- open price list */
+/*-- price list */
 .price-title {
  letter-spacing:0.2em;
  font-weight:700;
@@ -107,8 +101,7 @@ body {
  background:rgb(255,228,225);
 }
 
-/*-- close price list */
-/*-- open showcase list */
+/*-- showcase images */
 
 .showcase {
  text-align: center
@@ -123,8 +116,7 @@ body {
  text-align-last: center;
  }
 
-/*-- close showcase list */
-/*-- Open contact-card */
+/*--  contact-card */
 
 .spinner-grow {
     display: inline-block;
@@ -135,10 +127,7 @@ body {
     -webkit-animation: spinner-grow 1.75s linear infinite;
     animation: spinner-grow 1.5s linear infinite;
 }
-.carousel {
- height: 300px;
- width: 100%px;
-}
+
 
 .container.contact {
  height:500px;
@@ -149,7 +138,4 @@ body {
  height:400px;
  width:500px;
 }
- /*-- close .contact-card */
- /*-- open .card-footer */
  
- /*-- close .card-footer */
