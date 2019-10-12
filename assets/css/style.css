@@ -45,7 +45,7 @@ body {
  }
 /*-- welcome-card */
 
-.container-welcome {
+#welcome {
  color:rgb(211,211,211);
  text-align: center;
  font-weight: 400;
@@ -59,7 +59,8 @@ body {
 
 /*-- About */
 
-.container-about {
+#about {
+ height:65vh;
  color:rgb(0,0,0);
  font-weight:400;
  text-align: center;
