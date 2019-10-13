@@ -8,7 +8,7 @@
 -   The website will attempt to answer the questions of the customer or direct them to gain the information they require.
 -   Developing the new Branding of the Salon.
 
-[My page](https://gristydesigns.github.io/elegance-salon/)
+[Link to Elegance Salon](https://gristydesigns.github.io/elegance-salon/)
 
 -   The website has been designed to take up as much google advertising space as possible; in-conjunction with raising their presence online. This is part of the market strategy and working with ‘google my business’.
   
@@ -221,15 +221,15 @@ To clone this project from GitHub:
 4. In your local IDE open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type ```git clone```, and then paste the URL you copied in Step 3.
-```console
+7. ```console
 git clone https://github.com/Gristydesigns/elegance-salon.git
 
 7. Press Enter. Your local clone will be created.
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-##Issues whilst building the site:
+### Issues whilst building the site:
 
-*Considerations:
+## Considerations:
 
 - Telephone link- I started looking at the fundermental [Web](https://developers.google.com/web/fundamentals/native-hardware/click-to-call/) page; looking for a way to link through from website to Salon; the information out there is varied. With further guidance the links worked through popperjs.
 
@@ -271,7 +271,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 The content of the Website I have produced is for educational purposes at this stage.
 
-**How I’d like the website to be perceived:**
+* How I’d like the website to be perceived:**
 
 * “keep it simple, keep it specialized and make it purposeful” – I hope this is the users experience!
 
