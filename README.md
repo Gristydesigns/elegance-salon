@@ -1,15 +1,18 @@
 
-#ELEGANCE Hair Salon
+<img src="https://i.ibb.co/h9Tm1z8/elegance-logo.png" alt="elegance-logo">
 
--   Elegance Hair salon is based in the market town of Ledbury; it has been running since 2011. The owner had previously commissioned a website designer to develop thier site; this site no longer fits the business aspirations. Ledbury is a developing small market town; the website needs to be interactive enabling customers in as little steps as possible to book online, call and buy products. This site to be interactive with Elegance’s social media sites and overall marketing strategy. The customer experience is important and needs to be quick and easy to use; we know statistically that we are spending less time on a site, scrolling onto next site unless engaged. The site needs to be connected with the appoitment site of the salon.
+# 'ELEGANCE Hair Salon' 
+
+-   Elegance Hair salon is based in the market town of Ledbury; it has been running since 2011. Locally there are eight other salons serving a small market town, competition is high.
+-   The owner had previously commissioned a website designer to develop thier site; this site no longer fits the business aspirations. Ledbury is a developing small market town; the website needs to be interactive enabling customers in as little steps as possible to book online, call and buy products. This site to be interactive with Elegance’s social media sites and overall marketing strategy. The customer experience is important and needs to be quick and easy to use; we know statistically that we are spending less time on a site, scrolling onto next site unless engaged. The site needs to be connected with the appoitment site of the salon.
 -   The website will attempt to answer the questions of the customer or direct them to gain the information they require.
--   Developing the new Branding of the Salon
+-   Developing the new Branding of the Salon.
 
 [My page](https://gristydesigns.github.io/elegance-salon/)
 
 -   The website has been designed to take up as much google advertising space as possible; in-conjunction with raising their presence online. This is part of the market strategy and working with ‘google my business’.
   
-###The Business Goals fo the Website:
+### The Business Goals fo the Website:
 
 - Building brand awareness.
 - To offer access to the appointments.
@@ -17,14 +20,14 @@
 - To have alink straight through to the salon so they can convert the traffic to paying customers.
 - Have good UX to keep customer engaged until they access 'call for action' buttons.
 
-##The customers aims for the website:
+## The customers aims for the website:
 
 - Intuitive for new clients to use website easily.
 - To gain the information the clients requires to make decisions either on a product, consultation, book an appiontment.
 - To access the salon out of hours for appointment booking.
 - To purchase products and get them sent to their home; extending the experience from the salon.
 
-###Contents
+### Contents
 
 1.   UX
 2.   Ideal Customer
@@ -40,23 +43,23 @@
   
 
 
-###UX
+### UX
 
-###Ideal customer:
+### Ideal customer:
 
 - Customers using this site to purchase their hair products; this income generation is important to the salon.
-- Customers gaining inspiration from the Gallery, wanting to try new designs, colourings, products.
+- Customers gaining inspiration from the hair gallery, clients wishing to try new hair styles, colourings, products.
 - Lives or stays regularly in Ledbury.
 - Wants more from their salon, an idividual experience.
 - 
-##Visiors to the Website:
+## Visitors to the Website:
 
 - Are looking for a local salon.
 - Are looking for a unique experience.
 - Wanting to purchase JOICO products.
 - Wanting to book when they are ready, available 24 hours.
 
-##This projects helps them achive this through:
+## This projects helps them achive this through:
 
 - Links to the Salon's appointment website
 - The website has been designed as part of a marketing strategy for the salon to gain new customers, to offer customers to buy products; availability to write weekly blogs.
@@ -69,9 +72,9 @@
 - Informative yet not overpowering them with information.
 - Constantly guiding them to seek a personal touch.
 
-###Client Stories:
+### Client Stories:
 
-*  The main users are aged 18 and upwards however, their main client group is aged 40 plus.
+*  The main users are aged 18 and upwards however, their main client group is aged 40 plus, statistically this age group is more likely to view on desktop/ipad.
 *  Gaining a sense of trust with the owner and stylists.
 *  To gain either a way to independently book appointments or to call through to the salon.
 *  For the salon to build on their reputation, by having a website that offers more.
@@ -83,11 +86,11 @@
 *  The user can book appointments at any time of the day through the website.
 *  They can purchase products anytime of the day, salon can introduce new products.
 
-###Wireframe Mockups:
+### Wireframe Mockups:
 -   Initially I drew my wireframe on paper. I worked out the template I wanted across all the pages. Then developed the ideas for the feature section, as a developer I want each section to be clear, informative and to draw viewer further to other parts of the site. As a developer I wanted the 'call to action' buttons to be clear and user friendly so that they looked part of the page, subtle yet obvious.
 -   I detailed my ideas and then reflected on these prior to using [balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) to have a digital version. I would use adobe XD next time as I feel this gives a better user experience for clients.
 -   I already had some images as I have developed their ‘google my business’ site; in consideration for other projects.
--   I also knew they were entering a competition so would have further images available yet were unsure when they will be available.
+-   I also knew the salon was entering a stylist competition so would have further images available; yet were unsure when they will be available.
 
 * [Wireframe1](https://imgbbb.com/image/LTLS6N)
 
@@ -99,61 +102,61 @@
 
 
 -   The original wireframes had more images, and this could be a further development yet the images I had presently I have enclosed. The brightness and professional crisp finish. Some images provided I have not put on as they are outdated.
--   Having developed the first website and receiving feedback i developed [wireframe4](https://ibb.co/N24mJrS) this is the final project.
+-   Having developed the first website and receiving feedback I developed [wireframe4](https://ibb.co/N24mJrS) this is the final project.
 -   From the original sketches my designs have developed. Using [Balsamiq](NewProject%20elegance%20wireframe.pdf.bmpr) offered a digital version yet I would like to upgrade this next time as I feel it would enable me to grow my styles and add value to the project.
 
-###Features
+### Features
 
-##Home
+## Home
 
 The Navagation bar is fixed so that on every section it is available. This mean that on every section the customer can call the salon; reducing button requirement over the website, focusing the customer on options.
 This page is the opening one. The banner image introduces you to the team members. This image has been chosen to give an impression with the products in background, visually engaging customers.
 The logo is part of the navagation bar and holds th function to take customer back to the welcome bpage at anytime, this function is a well know link on websites.
 
-##Welcome
+## Welcome
 
-This paragraph leads from the banner image to give some information on the salon and what is on offer.The banner image is a focal and engaging opening image. The stepdown paragraph has been developed to draw the customer into the words.
+This paragraph leads from the banner image to give some information on the salon and what is on offer.The banner image is a focal to engage client as an opening image. The stepdown paragraph has been developed to draw the customer into the words.
 
-##About
+## About
 
 This section has an image and paragraph to update information on the salon and it's owner. giving the image and information to build on trust. Placing the image on the right, visually complimenting.
 The about section has been highlighted to give a seperation and emphasise to paragraph, to enable viewer to see seperation. The website is on one page and offering seperation through shadowing; should enable viewers to categorise sections. The colour follow the branding of the Salon; extending the branding awareness.
 
-##Prices
+## Prices
 
 This section cards were used, with images of the stylists on top; as a developer offering the layout to be simplistic and informative. The images supports the relationship between customer and stylist prior to appointmnet. The card allows a clear way of showing the prices and enabling the customer to compare and know what they are purchasing.
 These cards have also been given a showdowing to them, to offer a distiction between the cards, the card set upi is to introduce the staffing team.
 The booking link enables clients to book anytime on an online system, enabling the website to be a 24 hour access.
 
-##Showcase
+## Showcase
 
 Showcase has been set up to show 3x3 design to let the customer visually see the stylist skill and what can be achieved; to offer the customer inspiration. The set up is to have spaces inbetween the im
 The action buttons at the bottom of each card are there to ensure efficent access to book online.
 The images have been given a shadow to seperate each image to entice the client into the images seperately.
 
-##Contact
+## Contact
 
 Contact information was to give further information on times etc.. the image is present so that it is recognisable to the customer.
 The contact information is on a seperate page to keep the front page focusing on the services being offered. Links on the contact page enable you to book online and there is a map available in this link.
 
-##Products
+## Products
 
-This page shows the products salon uses and that can be purchased. as a developer i wanted to offer a blog, so developed the format of two prodcuts to be showcased. the use of fontawesome scissors were used here. This page has been developed so that on a monthly basis new articles acn be shared.
+This page shows the products salon uses and that can be purchased. As a developer I wanted to offer a blog, so developed the format of two prodcuts to be showcased.Tthe use of fontawesome scissors were used here. This page has been developed so that on a monthly basis new articles acn be shared.
 The buttons take the viewer either through to salon landline or to purchase products.
-The grow function on this page has been disabled as it is too distracting to viewer. The navigation bar is not fixed on this page as there limited scroll.
 
-##Footer
+
+## Footer
 
 The footer has links to the other social media sites for access through click. This is also access to afflicate link for JOICO products.
-The buttons are highlighted, all buttons are same colour to offer viewer consistency through site. the curser finger is available so that customers have ease to click through.
-The buy button has a grow fuction to draw attention, encouraging the viewer to click through.
+The buttons are highlighted, all buttons are same colour to offer viewer consistency through site. The curser finger is available so that customers have ease to click through.
 
-##Project Design
+
+## Project Design
 
 -   The website has been designed around the branding of the salon; they are in the process of developing this within their marketing strategy and the website is the centre of the launch. Keeping the website crisp and clean with call for action links has been the underpinning intention; key to the market strategy. The images have also been an important consideration as the salon has developed their knowledge and techniques and have not shared this formally; though imagery and showing off!
 
 
-###Exsisting Features
+### Exsisting Features
  - Header logo is fixed on every section and takes you to home page. This is where the brand of the company is recognisable. Clicking the logo takes you back to home section.
  - Navigation Bar is available on each section.
  - Footer contains the copyright information.
@@ -161,7 +164,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
  - Call to action is on every section.
  
 
-###Future plans
+### Future plans
 
 -   Future plans would be adding FB likes links in the footer.
 -   To add FB pixel so that through google analytics can provide further information on statistic on site; this will enable the marketing strategy to continually develop and transform the salon. The website is key to this.
@@ -170,7 +173,7 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 -   Maps section to be developed.
 
 
- ###Technologies Used
+ ### Technologies Used
  -    [HTML](https://www.wikipedia.com/HTML)
 - CSS
 - [Bootstap](https://getbootstrap.com/)
@@ -185,25 +188,30 @@ The buy button has a grow fuction to draw attention, encouraging the viewer to c
 * BootstrapCDN
 * The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
 * The project also uses BootstrapCDN to provide icons from FontAwesome
-* Google Fonts
-* The project uses Google fonts to style the website fonts.
-* jQuery - The project uses jQuery to reference Javascript needed for the responsive navbar.
-* Popper.js - The project uses Popper,js reference Javascript needed for the responsive navbar.
-* Favicon links for the logo.
+* [Google Fonts](https://fonts.google.com/)
+* The project uses [Google Fonts](https://fonts.google.com/) to style the website fonts.
+* [jquery](https://jquery.com/) - The project uses jQuery to reference Javascript needed for the responsive navbar.
+* [Popper.js](https://cdnjs.com/) - The project uses Popper,js reference Javascript needed for the responsive navbar.
+* [Favicon](https://www.favicon.cc/) links for the logo.
 * All external images are stored and linked from ImgBB  Media library owned by the Salon.
 
 ## Deployment
 This project was developed using the [Cloud9 IDE](https://c9.io), committed to git and pushed to GitHub using the built in function within cloud9. 
-To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/Gristydesigns/elegance-salon), the following steps were taken: 
+To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/Gristydesigns/elegance-salon) 
 1. Log into GitHub. 
-2. From the list of repositories on the screen, select **AJGreaves/portrait-artist**.
-3. From the menu items near the top of the page, select **Settings**.
-4. Scroll down to the **GitHub Pages** section.
-5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
-6. On selecting Master Branch the page is automatically refreshed, the website is now deployed. 
-7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
-At the moment of submitting this Milestone project the Development Branch and Master Branch are identical. 
+2. From the list of repositories on the screen, select **gristydesigns/elegance-salon**.
+3. Scroll down to the **code tab** section.
+4. Link **branch tab** this leads you to the master branch. 
 
+## Fixing the .c9 folder
+- Create a file named .gitignore
+- Open the file and add .c9/
+- Save the file
+- Add the file git add .gitignore
+- Then we need to remove it from github by executing the following command git rm -r --cached .c9/
+- git add .
+- git commit -m "Removed .c9 folder from repo not neded"
+- git push origin master
 
 ### How to run this project locally
 To clone this project from GitHub:
@@ -219,9 +227,9 @@ git clone https://github.com/Gristydesigns/elegance-salon.git
 7. Press Enter. Your local clone will be created.
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-##Issues whilst building the site
+##Issues whilst building the site:
 
-*The issues have been;
+*Considerations:
 
 - Telephone link- I started looking at the fundermental [Web](https://developers.google.com/web/fundamentals/native-hardware/click-to-call/) page; looking for a way to link through from website to Salon; the information out there is varied. With further guidance the links worked through popperjs.
 
@@ -231,22 +239,26 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 - Images from salon were delayed so many images were the older ones.
 - Balsamiq wireframe was not flexible and would use another system next time.
 
-###Testing
+### Testing
 
--   [Find unclosed tags](https://aliciaramirez.com/closing-tags-checker/) was used to verify correct tags.
--   [W3S validator](https://validator.w3.org/nu/#textarea) to ensure code has no errors.
--   Initial testing identified telephone coding as an issue.
+-   [Find unclosed tags](https://aliciaramirez.com/closing-tags-checker/) was used to verify correct tags. I used this tool to ensure that the correct tags were inserted and that code flows correctly. This was a valuable resource as a student, accuracy and resourcful on your time.
+-   [W3S validator](https://validator.w3.org/nu/#textarea) to ensure code has no errors. The validator highlighted the code that was not working; enabled me to clean the code and then research when required to fix problems. This i learnt I need to do more regularly as a student. Adding this as a git commit
+-   Initial testing identified telephone coding as an issue. through investigation i realised there was no requirement for meta links in the header. 
+-   Photo quality was a challenge. some issues were resolved through reducing the file size to ensure the speed of the website was good. I used the audit tester on chrome to ensure speed of the website was good; this resource is essential in a competitive market of keeping the clients attention on the site. if site is slow; new research shows we scroll and have less patients to wait.
+-   Testing with client group informed structural changes such as more images and more emphasis on section dividers in a sensitive way to keep the flow of the site. Using the shadow effect offered me a great solution.
 -   I tested the website Google Chrome and Safari. I was always using Google Chrome and found no issues when using this browser.
 -   The website worked to the normal standard on Mozilla Firefox as well. So far, so good.
+-   Slack group also tested the site and highlighted gutter to right side of site; issues which got resolved through css.
 
-##Media and Content
+
+## Media and Content
 
 - The text, images have been part of the marketing strategy and are still in development.
 
 - Some of the images have been taken from the old site, some from social media.
 
 
-###Acknowledgements
+### Acknowledgements
 
 -   I would like to say thank you to my mentor.[Simen Daehlin]("https://www.github.com/Eventyret") his support and encouragement has been a great source of help and more importantly humour!.
 -   The Salon for sharing their images for this project.
@@ -255,7 +267,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 -   Coding All in One for Dummies – I used this text for reference and to gain a better understanding.
 -   Web design index series – used for inspiration on designs
 
-##Disclaimer
+## Disclaimer
 
 The content of the Website I have produced is for educational purposes at this stage.
 
