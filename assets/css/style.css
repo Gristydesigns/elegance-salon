@@ -75,7 +75,7 @@ body {
  }
 
 /*-- price list */
-.price-list {
+#price {
  letter-spacing:0.2em;
  font-weight:700;
  font-size:32px;
@@ -108,18 +108,13 @@ body {
 
 /*-- showcase images */
 
-.showcase {
+#gallery {
  text-align: center
 }
  h3 {
   text-shadow: 2px 2px rgb(211,211,211);
   }
   
-.flex-container3 {
- background:rgb(255,255,240);
- Padding-top:30px;
- text-align-last: center;
- }
 
 /*--  contact-card */
 
@@ -133,9 +128,10 @@ body {
     animation: spinner-grow 1.75s linear infinite;
 }
 
-#contact {
- height:65vh;
+.contact {
+ height:85vh;
  width:100%;
+ padding:20px;
  }
  
 .contact-img {
