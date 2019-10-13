@@ -2,7 +2,7 @@
 
 body {
     width: 100%;
-    height: 100%;
+    height: auto;
     background: rgb(245,245,245);
     font-family: 'Roboto', sans-serif;
     font-size: 28px;
@@ -10,6 +10,12 @@ body {
     line-height: 35px;
     background-size: cover;
 }
+
+ .row {
+margin: 0;
+padding: 0;
+}
+
 
 /*-- Navigation*/
 
@@ -23,8 +29,11 @@ body {
   font-weight: 700;
   color: rgb(211,211,211);
   word-spacing: 25px;
+  
    }
- 
+ .nav-link {
+  background: rgb(255,228,225);
+ }
 .navbar-brand {
  letter-spacing:0.2em;
  font-size: 28px;
@@ -70,9 +79,8 @@ body {
  
  
  #image-about {
- height:300px;
- width:300px;
- margin:10px;
+ height:280px;
+ width:280px;
  background: rgb(211,211,211);
  }
 
